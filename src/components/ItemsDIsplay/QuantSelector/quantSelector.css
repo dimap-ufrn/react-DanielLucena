@@ -1,0 +1,22 @@
+.quant-selector{
+    
+    padding: 1px;  
+    border: 3px solid red;  
+}
+.quant-selector span{
+    font-size:medium !important;
+    
+}
+
+
+.quant-selector img{
+    max-width: 15px !important;
+    max-height: 15px !important;
+    
+}
+.quant-selector img#up{
+    
+}
+.quant-selector img#down{
+    
+}
